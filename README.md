@@ -1,5 +1,5 @@
 # AB-Testing
-<img algin="center" src="https://www.alastyr.com/blog/wp-content/uploads/2020/12/ab-testi-yapmak.jpg"/>
+<img algin="center" src="https://bimerakdunya.com/wp-content/uploads/2020/09/AB-test-nedir.jpg"/>
 
 ----
 
